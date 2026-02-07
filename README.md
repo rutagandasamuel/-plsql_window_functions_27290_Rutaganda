@@ -1,0 +1,1 @@
+# -plsql_window_functions_27290_Rutaganda
